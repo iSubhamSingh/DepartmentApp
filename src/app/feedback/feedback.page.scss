@@ -1,0 +1,21 @@
+@import '../tab1/tab1.page.scss';
+
+ion-header {
+    @include header();
+
+}
+
+
+
+// button {
+//     margin-top: 20px;
+//     width: 130px;
+//     height: 40px;
+//     margin-left: 15px;
+//     background-color: $light;
+//     color: white;
+//     font-weight: 400;
+//     font-size: 16px;
+//     border-radius: 5px;
+
+// }
